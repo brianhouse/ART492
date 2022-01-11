@@ -94,10 +94,12 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 
 ## Deadlines
 
+**February 21 (Week 1)**:
+- Advisor meeting schedule
+
 **February 11 (Week 4), Exhibition Announcement**:
 - Exhibition announcement artwork (collective)
 - Final list of student names
-- Due Friday: schedule of advisor meetings
 
 **February 18 (Week 5), Statements**:
 - Artist statement
@@ -128,7 +130,7 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 - Application materials
 
 **April 30th—May 6th, Finals**:
-- Artist presentations
+- Artist talk + slides
 
 **May 9th, Deinstall**
 - All work removed, 10am–4pm
@@ -140,6 +142,8 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 - Review of syllabus
 - Situate our work and discuss fall semester
 - Instagram accounts and documenting process
+Resources:
+[Instagram Best Practices](files/CC-instagram.pdf)
 
 #### Week 2 (1/25) — Fields 207
 - Group critique
@@ -196,4 +200,3 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 
 #### Finals Week
 - Artist talks
-- Artist talk slides due
