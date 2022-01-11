@@ -5,7 +5,7 @@
 
 ## Introduction
 
-The Senior Exhibition is the culmination of your creative practice during your senior year at Lewis & Clark. The Department of Art and Art History, the Dean's office, and the College as a whole are invested in its success. By signing this document, you are entering into an agreement with Department that you will be responsible for fulfilling the requirements for each item as indicated below. Failure to adhere to the requirements in this contract will mean that your work will not be included in the exhibition.
+The Senior Exhibition is the culmination of your creative practice at Lewis & Clark. The Department of Art and Art History, the Dean's office, and the College as a whole are invested in its success. By signing this document, you are entering into an agreement with Department that you will be responsible for fulfilling the requirements for each item as indicated below. Failure to adhere to the requirements in this contract will mean that your work will not be included in the exhibition.
 
 **Please save this contract and refer to it throughout the semester.**
 
@@ -20,7 +20,7 @@ You will receive 50 exhibition announcements for your own use.
 
 ## 2. Curatorial Review
 
-During the week of **February 21th—25th** there will be a curatorial review of the work you would like to have considered for inclusion in the exhibition. The curatorial review panel will be made up of your area advisor and the ART 492 faculty. Your work should be finished prior to the curatorial review, and you should be prepared to discuss how it will be presented in the gallery. Your professor and area advisor will make the final selection of the pieces that will go into the exhibition and the parameters of the presentation based on what you propose. At this time, you will need to commit to final dimensions for each of the artworks included in the show. Special installation requirements and requests will be noted and you may be asked to work with an installation tech to work out any potential installation issues.  
+During the week of **February 21th—25th** there will be a curatorial review of the work you would like to have considered for inclusion in the exhibition. The curatorial review panel will be made up of your area advisor and the ART 492 faculty. Your work should be in its final stages prior to the curatorial review, and you should be prepared to discuss how it will be presented in the gallery. Your professor and area advisor will make the final selection of the pieces that will go into the exhibition and the parameters of the presentation based on what you propose. At this time, you will need to commit to final dimensions for each of the artworks included in the show. Special installation requirements and requests will be noted and you may be asked to work with an installation tech to work out any potential installation issues.  
 
 
 ## 3. Catalog Materials
@@ -28,7 +28,7 @@ During the week of **February 21th—25th** there will be a curatorial review of
 By **Friday, March 4th** you will need to provide the Art 492 faculty member with a finalized catalog materials. Failure to meet this deadline will result in not being represented in the exhibition brochure. You will not have the opportunity to change this information after the due date.
 
 #### Exhibition statement
-The exhibition statement is a single 150-300 word statement that summarizes your philosophy, inspiration, and/or working methods for the artwork(s) that you are exhibiting. This must be a final, edited statement that has been reviewed and approved by your advisor and the Art 492 faculty member. No one other than you and your advisors will make edits or corrections to your statement once it has been submitted. If you choose to use non-Western characters or formatting other than italics, please give the final publication submitter explicit instructions.
+The exhibition statement is a single 150-300 word statement that summarizes your philosophy, inspiration, and/or working methods for the artwork(s) that you are exhibiting. This must be a final, edited statement that has been reviewed and approved by your advisor and the Art 492 faculty member. No one other than you and your advisors will make edits or corrections to your statement once it has been submitted. If you choose to use non-Western characters or formatting other than italics, please provide explicit instructions so that your intentions are clear.
 
 #### Object list
 The object list is the final list of works that you will include in the exhibition. Each artwork must be identified as follows:
@@ -37,7 +37,7 @@ The object list is the final list of works that you will include in the exhibiti
 - Date
 - Title
 - Medium
-- Dimension (Height x Width x Depth) in inches
+- Dimensions (height x width x depth in inches)
 
 Please be sure that you follow this format and pay particular attention to dimensions, which provide orientation information about your artwork. The installer may go by this document when installing the show.
 
