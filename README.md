@@ -32,7 +32,7 @@ Conceptual development is critical to the thesis, and you are expected to cultiv
 
 
 ### Hoffman Gallery Exhibition
-The core component of your thesis work is participation in the Senior Exhibition at the Hoffman Gallery. The requirements for the exhibition are listed in the Exhibition Contract. Read this document carefully and honor all deadlines and procedures detailed. Failure to meet these deadlines or follow these procedures will mean that your work is not included in the exhibition.
+The core component of your thesis work is participation in the Senior Exhibition at the Hoffman Gallery. The requirements for the exhibition are listed in the [Exhibition Contract](contract.md). Read this document carefully and honor all deadlines and procedures detailed. Failure to meet these deadlines or follow these procedures will mean that your work is not included in the exhibition.
 
 Visiting external critics will view the exhibition and recommend exemplary students for additional opportunities. Additionally, you will document your work while it is installed in order to complete the professional development deliverables for this course.
 
@@ -97,6 +97,13 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 **February 11 (Week 4), Exhibition Announcement**:
 - Exhibition announcement artwork (collective)
 - Final list of student names
+- Due Friday: schedule of advisor meetings
+
+**February 18 (Week 5), Statements**:
+- Artist statement
+- Artist bio
+- Exhibition statement
+- CV
 
 **February 21th—25th (Week 6), Curatorial Reviews**:
 - Final number and dimensions of artwork(s)
@@ -107,15 +114,25 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 - List of sale and insurance values
 - Brochure photograph
 
+**March 18 (Week 9), Website**:
+- Website portfolio
+
 **April 4th—8th (Week 11), Exhibition**:
 - Final artwork delivered 10am–4pm on April 5th
 - Attend opening on April 8th
+
+**April 22 (Week 13), Portfolio**:
+- Print portfolio
+
+**April 29 (Week 14), Application**:
+- Application materials
 
 **April 30th—May 6th, Finals**:
 - Artist presentations
 
 **May 9th, Deinstall**
 - All work removed, 10am–4pm
+
 
 ## Schedule
 
@@ -134,28 +151,28 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 #### Week 4 (2/8)
 - Class: check in on exhibition announcement
 - Workshop: artist statement, artist bio, CV, and exhibition statement
-- Due Friday: Exhibition announcement materials
+<!-- - Due Friday: Exhibition announcement materials -->
 
 #### Week 5 (2/15)
 - Group critique
-- Due Friday: statements
+<!-- - Due Friday: statements -->
 
 #### Week 6 (2/22)
 - Workshop: documentation and photoshop demo
 - Workshop: sale and insurance values
-- Class: website check-in
-- Curatorial reviews this week
 <!-- feedback: exhibition statements -->
 
 #### Week 7 (3/1)
-- Due Friday: Catalog materials
+- Curatorial reviews this week
+- Workshop: websites + mailing lists
+<!-- - Due Friday: Catalog materials -->
 
 #### Week 8 (3/8)
-- Workshop: websites + mailing lists
+- Exhibition promotion planning
 
 #### Week 9 (3/15)
-- Group Critique
-- Due Friday: Website
+- Group critique
+<!-- - Due Friday: Website -->
 
 #### Spring Break
 
@@ -171,11 +188,11 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 
 #### Week 13 (4/19)
 - Workshop: Applications + Professional Plan
-- Due Friday: Print portfolio
+<!-- - Due Friday: Print portfolio -->
 
 #### Week 14 (4/26)
 - Workshop: artist talks
-- Due Friday: Application
+<!-- - Due Friday: Application -->
 
 #### Finals Week
 - Artist talks
