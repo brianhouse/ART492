@@ -94,7 +94,7 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 
 ## Deadlines
 
-**February 21 (Week 1)**:
+**February 25 (Week 1)**:
 - Advisor meeting plan and first meeting scheduled
 
 **February 11 (Week 4), Exhibition Announcement**:
@@ -143,14 +143,14 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 - Situate our work and discuss fall semester
 - [Instagram accounts](workshops/social_media.md)
 
-#### Week 2 (1/25) — Fields 207
+#### Week 2 (1/25) — ONLINE
 - Group critique
 
-#### Week 3 (2/1)
+#### Week 3 (2/1) — ONLINE
 - Class: discuss exhibition identity and title
 - Individual meetings
 
-#### Week 4 (2/8)
+#### Week 4 (2/8) — Fields 207
 - Class: check in on exhibition announcement
 - Workshop: artist statement, artist bio, CV, and exhibition statement
 <!-- - Due Friday: Exhibition announcement materials -->
