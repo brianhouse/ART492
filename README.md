@@ -95,7 +95,7 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 ## Deadlines
 
 **February 21 (Week 1)**:
-- Advisor meeting schedule
+- Advisor meeting plan and first meeting scheduled
 
 **February 11 (Week 4), Exhibition Announcement**:
 - Exhibition announcement artwork (collective)
@@ -141,9 +141,7 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 #### Week 1 (1/18) — ONLINE
 - Review of syllabus
 - Situate our work and discuss fall semester
-- Instagram accounts and documenting process
-Resources:
-[Instagram Best Practices](files/CC-instagram.pdf)
+- [Instagram accounts](workshops/social_media.md)
 
 #### Week 2 (1/25) — Fields 207
 - Group critique

@@ -15,5 +15,4 @@ $2,296 total
 
 /
 
-only Instagram matters right now
 this is not your whole life. dont put your other shit on it. it's not you. it's your portfolio.
