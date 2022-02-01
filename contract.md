@@ -54,15 +54,15 @@ The exhibition brochure requires a digital photograph (300 ppi) of one artwork f
 Please make sure that the artwork you deliver to the Hoffman Gallery for installation is adequately prepared. You should work with your advisor to understand clearly how to hang or display your work. You should have had the experience of actually installing this artwork yourself, at some other location, to make sure that your solutions are workable. Be aware that if you have chosen non-traditional presentation methods, you may be asked to work directly with an installation tech to work out any installation issues **before** you deliver your artwork to the Hoffman Gallery.
 
 #### Custom work
-Special arrangements must be made for work that is not in a traditional 2D or 3D format and which requires work by the artist in the gallery space (aka installations). Students who wish to do an installation will have access to the Hoffman Gallery on **Wednesday, April 6th**. All  installations must be completed on this day. Any student working on an installation will be required to provide their own labor, tools, and materials for the installation of their piece, and will be required to follow standard security procedures. The Art 492 faculty member will give permission to Campus Safety for the student and any assistants to enter the Gallery—only the names given to Campus Safety will be allowed entrance into the Hoffman Gallery.
+Special arrangements must be made for work that is not in a traditional 2D or 3D format and which requires work by the artist in the gallery space (aka installations). Students who wish to do an installation will have access to the Hoffman Gallery the week of **March 28th–April 1st**. All  installations must be completed during this time. Any student working on an installation will be required to provide their own labor, tools, and materials for the installation of their piece, and will be required to follow standard security procedures. The Art 492 faculty member will give permission to Campus Safety for the student and any assistants to enter the Gallery—only the names given to Campus Safety will be allowed entrance into the Hoffman Gallery.
 
 #### Delivery
-All artwork is due in the Hoffman Gallery on **Tuesday, April 5th between 10am–4pm**. Artwork will not be accepted after this time. **No exceptions**. The consequence for not delivering your artwork on the specified date and time is that your work will not be included in the Senior Exhibition.
+All artwork is due in the Hoffman Gallery by **Monday, April 4th at 4pm**. Artwork will not be accepted after this time. **No exceptions**. The consequence for not delivering your artwork on the specified date and time is that your work will not be included in the Senior Exhibition.
 
 #### Installation
-Staff will lay out the exhibition and install the artwork from **Tuesday, April 5th through Friday, April 8th**. The layout of the exhibition is the decision of the Art 492 faculty as informed by the curatorial review and cannot be altered at this time. Do not alter the installation or move labels.
+Staff will lay out the exhibition and install the artwork from **Tuesday, April 4th through Friday, April 7th**. The layout of the exhibition is the decision of the Art 492 faculty as informed by the curatorial review and cannot be altered at this time. You may not alter the work after installation.
 
-Please be aware that the Hoffman Gallery and the faculty/staff of the Department of Art and Art History are not responsible for damage to your work during the installation process that is intrinsic to the risks of handling artwork.
+Please be aware that the Hoffman Gallery and the faculty/staff of the Department of Art and Art History are not responsible for damage to your work during the installation process that is intrinsic to the risks of handling art.
 
 
 ## 5. Opening

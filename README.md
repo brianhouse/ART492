@@ -101,10 +101,10 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 - Exhibition announcement artwork (collective)
 - Final list of student names
 
-**February 18 (Week 5), Statements**:
+**February 15 (Week 5), Statements**:
 - Artist statement
+- Draft exhibition statement
 - Artist bio
-- Exhibition statement
 - CV
 
 **February 21th—25th (Week 6), Curatorial Reviews**:
@@ -120,11 +120,12 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 - Website portfolio
 
 **April 4th—8th (Week 11), Exhibition**:
-- Final artwork delivered 10am–4pm on April 5th
+- Final artwork delivered by 4pm on April 4th
 - Attend opening on April 8th
 
 **April 22 (Week 13), Portfolio**:
 - Print portfolio
+- Website revision
 
 **April 29 (Week 14), Application**:
 - Application materials
@@ -148,29 +149,30 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 
 #### Week 3 (2/1) — ONLINE
 - Class: discuss exhibition identity and title
-- Individual meetings
+- Workshop: artist statement, artist bio, CV, and exhibition statement
 
 #### Week 4 (2/8) — Fields 207
-- Class: check in on exhibition announcement
-- Workshop: artist statement, artist bio, CV, and exhibition statement
-<!-- - Due Friday: Exhibition announcement materials -->
+- Class: check in on exhibition identity and title
+- Critique in small groups (Arnold)
+<!-- - Due Friday: Exhibition identity and title -->
 
 #### Week 5 (2/15)
-- Group critique
+**No class**
+- Online group feedback: exhibition statements
 <!-- - Due Friday: statements -->
 
 #### Week 6 (2/22)
-- Workshop: documentation and photoshop demo
-- Workshop: sale and insurance values
-<!-- feedback: exhibition statements -->
+- Group critique
 
 #### Week 7 (3/1)
-- Curatorial reviews this week
-- Workshop: websites + mailing lists
+**Curatorial reviews this week**
+- Workshop: documentation and photoshop demo
+- Workshop: sale and insurance values
 <!-- - Due Friday: Catalog materials -->
 
 #### Week 8 (3/8)
 - Exhibition promotion planning
+- Workshop: websites + mailing lists
 
 #### Week 9 (3/15)
 - Group critique
@@ -190,7 +192,7 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 
 #### Week 13 (4/19)
 - Workshop: Applications + Professional Plan
-<!-- - Due Friday: Print portfolio -->
+<!-- - Due Friday: Print portfolio and website revision -->
 
 #### Week 14 (4/26)
 - Workshop: artist talks
