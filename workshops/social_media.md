@@ -24,7 +24,7 @@ This is the scenario: at a gallery opening or dinner or a conference you meet so
 
 #### Post Regularly
 - The three categories all need to be balanced
-- Be consistent, ie every week or two you should post
+- Be consistent, ie every week or two you should post (posting more than that is unnecessary and will dilute your feed)
 - Lift each other up. Like and comment on your cohort.
 
 ### Examples
