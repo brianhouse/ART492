@@ -101,7 +101,7 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 - Exhibition announcement artwork (collective)
 - Final list of student names
 
-**February 15 (Week 5), Statements**:
+**February 14 (Week 5), Statements**:
 - Artist statement
 - Draft exhibition statement
 - Artist bio
@@ -159,7 +159,7 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 #### Week 5 (2/15)
 **No class**
 - Online group feedback: exhibition statements
-<!-- - Due Friday: statements -->
+<!-- - Due: statements -->
 
 #### Week 6 (2/22)
 - Group critique
