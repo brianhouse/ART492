@@ -92,51 +92,6 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 &nbsp;
 &nbsp;
 
-## Deadlines
-
-**February 25 (Week 1)**:
-- Advisor meeting plan and first meeting scheduled
-
-**February 11 (Week 4), Exhibition Announcement**:
-- Exhibition announcement artwork (collective)
-- Final list of student names
-
-**February 14 (Week 5), Statements**:
-- Artist statement
-- Draft exhibition statement
-- Artist bio
-- CV
-
-**February 28th—March 4th (Week 6), Curatorial Reviews**:
-- Final number and dimensions of artwork(s)
-
-**March 4th (Week 7), Catalog Materials**:
-- Exhibition statement
-- Object list
-- List of sale and insurance values
-- Brochure photograph
-
-**March 18 (Week 9), Website**:
-- Website portfolio
-
-**April 4th—8th (Week 11), Exhibition**:
-- Final artwork delivered by 4pm on April 4th
-- Attend opening on April 8th
-
-**April 22 (Week 13), Portfolio**:
-- Print portfolio
-- Website revision
-
-**April 29 (Week 14), Application**:
-- Application materials
-
-**April 30th—May 6th, Finals**:
-- Artist talk + slides
-
-**May 9th, Deinstall**
-- All work removed, 10am–4pm
-
-
 ## Schedule
 
 #### Week 1 (1/18) — ONLINE
@@ -145,7 +100,8 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 - [Instagram accounts](workshops/social_media.md)
 
 #### Week 2 (1/25) — ONLINE
-- Group critique
+- **Group critique**
+- **Due: Advisor meeting plan and first meeting scheduled**
 
 #### Week 3 (2/1) — ONLINE
 - Class: discuss exhibition identity and title
@@ -154,49 +110,59 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 #### Week 4 (2/8) — Fields 207
 - Class: check in on exhibition identity and title
 - Critique in small groups (Arnold + Lobby)
-<!-- - Due Friday: Exhibition identity and title -->
+- **Due Friday: Exhibition identity and title**
+
 
 #### Week 5 (2/15)
-**No class**
 - Online group feedback: exhibition statements
-<!-- - Due: statements -->
+- **Due: Artist statement, draft exhibition statement, bio, CV**
+
 
 #### Week 6 (2/22)
-- Group critique
+- **Group critique**
 
 #### Week 7 (3/1)
-**Curatorial reviews this week**
+**Curatorial reviews this week: need final dimensions**
 - Workshop: documentation and photoshop demo
 - Workshop: sale and insurance values
-<!-- - Due Friday: Catalog materials -->
+- **Due Friday: Catalog materials (final exhibition statement, object list, sale and insurance values, brochure photograph)**
+
 
 #### Week 8 (3/8)
 - Exhibition promotion planning
 - Workshop: websites + mailing lists
 
 #### Week 9 (3/15)
-- Group critique
-<!-- - Due Friday: Website -->
+- **Group critique**
+- **Due Friday: Website**
+
 
 #### Spring Break
 
 #### Week 10 (3/29)
 - Individual meetings
+- Installations built in gallery
 
-#### Week 11 (Installation week)
-- Tuesday—Thursday (4/5–7): Installation
+#### Week 11 (4/5)
+- **Final artwork delivered by 4pm on April 4th**
+- No class
 - Friday (4/8): Opening / Festival of Scholars
+
 
 #### Week 12 (4/12)
 - Collective documentation session
 
 #### Week 13 (4/19)
 - Workshop: Applications + Professional Plan
-<!-- - Due Friday: Print portfolio and website revision -->
+- **Due Friday: Print portfolio and website revision**
 
 #### Week 14 (4/26)
 - Workshop: artist talks
-<!-- - Due Friday: Application -->
+- **Due Friday: Application materials**
+
 
 #### Finals Week
-- Artist talks
+- **Due: Artist talks + slides**
+
+#### May 9th, Deinstall
+- **All work removed, 10am–4pm**
