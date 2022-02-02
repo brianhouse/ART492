@@ -153,7 +153,7 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 
 #### Week 4 (2/8) — Fields 207
 - Class: check in on exhibition identity and title
-- Critique in small groups (Arnold)
+- Critique in small groups (Arnold + Lobby)
 <!-- - Due Friday: Exhibition identity and title -->
 
 #### Week 5 (2/15)
