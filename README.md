@@ -107,7 +107,7 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 - Artist bio
 - CV
 
-**February 21th—25th (Week 6), Curatorial Reviews**:
+**February 28th—March 4th (Week 6), Curatorial Reviews**:
 - Final number and dimensions of artwork(s)
 
 **March 4th (Week 7), Catalog Materials**:
