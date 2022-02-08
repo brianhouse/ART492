@@ -112,21 +112,18 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 - Critique in small groups (Arnold + Lobby)
 - **Due Friday: Exhibition identity and title**
 
-
 #### Week 5 (2/15)
-- Online group feedback: exhibition statements
-- **Due: Artist statement, draft exhibition statement, bio, CV**
-
+- Workshop: documentation and photoshop demo (Tammy Jo)
+- **Due Friday: Artist statement, draft exhibition statement, bio, CV**
 
 #### Week 6 (2/22)
 - **Group critique**
 
 #### Week 7 (3/1)
 **Curatorial reviews this week: need final dimensions**
-- Workshop: documentation and photoshop demo
 - Workshop: sale and insurance values
+- Group feedback: exhibition statements
 - **Due Friday: Catalog materials (final exhibition statement, object list, sale and insurance values, brochure photograph)**
-
 
 #### Week 8 (3/8)
 - Exhibition promotion planning
@@ -135,7 +132,6 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 #### Week 9 (3/15)
 - **Group critique**
 - **Due Friday: Website**
-
 
 #### Spring Break
 
@@ -148,7 +144,6 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 - No class
 - Friday (4/8): Opening / Festival of Scholars
 
-
 #### Week 12 (4/12)
 - Collective documentation session
 
@@ -159,7 +154,6 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 #### Week 14 (4/26)
 - Workshop: artist talks
 - **Due Friday: Application materials**
-
 
 #### Finals Week
 - **Due: Artist talks + slides**
