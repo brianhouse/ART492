@@ -2,22 +2,27 @@
 
 ## Questions
 
-Jesse, Kess, and Elana have 3D work, so it's either distributed on the back floor, or something goes in the black box or alcove.
+If Elana is in the back + jesse is in the back, that's too imbalanced on the 3D. Ethan makes more sense.
 
-Kess is definitely floor, Elana is the most flexible but depends on lighting, Jesse depends on the nature of the thing.
+is there enough space for Ethan?
+
+Mix mediums
 
 
 ## Pieces
 
 ### ELANA
-Black Box or Alcove or Main Floor:
+Main Floor + Back front wall (19')
 - custom lights? any other tech?
+
 
 ### ETHAN
 Black Box exterior / rear wall:
+keep wall white?
 
-- is there sound??
+32" x 5 = 13' without gaps
 
+check with mark how much of a border for prints with magnet
 
 ### EVAN
 Back side wall: 20'
@@ -29,7 +34,7 @@ Front center wall: 19'
 Back side wall: 20'
 
 ### HELEN
-Back front wall: 19'
+
 
 ### JADE
 Front side wall: 29'

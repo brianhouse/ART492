@@ -3,6 +3,7 @@
 - vinyl and labels?
 - patch & paint? painting the white screen back
 - visiting critics (Libby example email from Joel, invite her back?)
+- documentation
 
 
 Joel:
