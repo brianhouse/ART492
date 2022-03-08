@@ -33,8 +33,6 @@ This is simply the cost for you to replace the work. Rather than pricing, which 
 
 ## Resources
 
-https://www.theartleague.org/blog/2016/05/20/how-to-price-your-artwork-a-beginners-guide/
-
-https://www.gyst-ink.com/pricing-your-work
-
-https://www.artworkarchive.com/blog/do-s-and-don-ts-of-pricing-your-artwork
+- https://www.theartleague.org/blog/2016/05/20/how-to-price-your-artwork-a-beginners-guide/
+- https://www.gyst-ink.com/pricing-your-work
+- https://www.artworkarchive.com/blog/do-s-and-don-ts-of-pricing-your-artwork

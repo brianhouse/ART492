@@ -37,13 +37,23 @@ Back side wall: 20'
 
 
 ### JADE
-Front side wall: 29'
+Back side wall: 20'
+
+13 x 9 = 117 (prints)
+6 x 8 = 48   (gaps)
+117 + 48 = 165, 13.75 ft
+
 
 ### JESSE
 Alcove or main floor:
 
 ### KATIE
-Front side wall: 29'
+Back side wall: 20'
+
+48 + 48 + 36 + 36 = 168 = 14' + 3' gaps = 17'
+
+D-ring paintings
+
 
 ### KESS
 Center floor
@@ -54,5 +64,10 @@ Front front wall?: 16'
 ### MICHELLE
 Back side wall: 20'
 
+
+
 ### MILAN
-Back side wall: 20' length
+Front side wall: 29' length
+
+60 + 18 + 60 + 18 + 60 + 18 = 234, 19.5'
++ gaps

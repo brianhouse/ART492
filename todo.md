@@ -1,9 +1,14 @@
 - secure external critics
+- circle back with Caitlin Peel
 /
 - vinyl and labels?
 - patch & paint? painting the white screen back
 - visiting critics (Libby example email from Joel, invite her back?)
 - documentation
+
+contact mark about nails + magnets
+
+
 
 
 Joel:
