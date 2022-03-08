@@ -148,6 +148,7 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 - Collective documentation session
 
 #### Week 13 (4/19)
+- Mailing lists sent
 - Workshop: Applications + Professional Plan
 - **Due Friday: Print portfolio and website revision**
 
