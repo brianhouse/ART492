@@ -2,11 +2,17 @@
 
 ## Questions
 
-If Elana is in the back + jesse is in the back, that's too imbalanced on the 3D. Ethan makes more sense.
+- is there enough space for Ethan?
 
-is there enough space for Ethan?
+- how much can Haley have?
 
-Mix mediums
+- TVs and monitors (Haley, Fiona, Lindsey)
+
+
+## Mark
+
+check with mark how much of a border for prints with magnet (Ethan)
+
 
 
 ## Pieces
@@ -22,7 +28,8 @@ keep wall white?
 
 32" x 5 = 13' without gaps
 
-check with mark how much of a border for prints with magnet
+
+
 
 ### EVAN
 Back side wall: 20'

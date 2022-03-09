@@ -31,6 +31,7 @@ Website Best Practices (from Creative Capital): Be sure your site meets the foll
 - Try the "Wells" template:
     - [Template Demo](https://wells-demo.squarespace.com)
     - [Info and options](https://support.squarespace.com/hc/en-us/articles/206545647-Wells-template)
+- 50% discount through [student beans](https://www.studentbeans.com/student-discount/us/squarespace)
 
 
 ### Resources
