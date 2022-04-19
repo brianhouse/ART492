@@ -148,17 +148,15 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 - Collective documentation session
 
 #### Week 13 (4/19)
-- Mailing lists sent
-- Workshop: artist talks
-- **Due Friday: Print portfolio and website revision**
+- No class meeting: visiting critics this week
 
 #### Week 14 (4/26)
-- Visit from Erica Jensen
-- Uploading thesis materials
-- Review artist talks
+- Visit from Erica Jensen: uploading thesis materials
+- Website review
+- Mailing list workshop
 
 #### Finals Week: Thursday, May 5 6:00P-9:00P
-- **Due: Artist talks + slides**
+- **Due: Final website and mailing sent**
 
 #### May 9th, Deinstall
 - **All work removed, 10am–4pm**
