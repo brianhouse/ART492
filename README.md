@@ -151,12 +151,12 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 - No class meeting: visiting critics this week
 
 #### Week 14 (4/26)
+- **Due: website revision**
 - Visit from Erica Jensen: uploading thesis materials
-- Website review
-- Mailing list workshop
+- Artist talk workshop
 
 #### Finals Week: Thursday, May 5 6:00P-9:00P
-- **Due: Final website and mailing sent**
+<!-- - **Artist talks** -->
 
 #### May 9th, Deinstall
 - **All work removed, 10am–4pm**
