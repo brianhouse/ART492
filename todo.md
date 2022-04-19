@@ -1,3 +1,6 @@
+- 10 min artist talks?
+- or lose the artist talks, do a closing party
+
 - secure external critics
 - circle back with Caitlin Peel
 /
@@ -6,9 +9,7 @@
 - visiting critics (Libby example email from Joel, invite her back?)
 - documentation
 
-contact mark about nails + magnets
-
-
+- plan artist talks
 
 
 Joel:
