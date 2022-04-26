@@ -153,6 +153,7 @@ If you are experiencing COVID symptoms DO NOT come to campus. Information on COV
 #### Week 14 (4/26)
 - **Due: website revision**
 - Visit from Erica Jensen: uploading thesis materials
+- Review websites
 - Artist talk workshop
 
 #### Finals Week: Thursday, May 5 6:00P-9:00P

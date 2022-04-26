@@ -18,6 +18,8 @@ These are the materials:
 
 - Artist CV: a list of your professional accomplishments
 
+- [Artist talk](artist_talks.md)
+
 Thinking about all these things together is key to crafting a coherent professional identity.
 
 One key point of clarification is the difference between an artist statement and an exhibition statement. An exhibition statement is often called an artist statement. However, if in an application to graduate school, for example, you are asked for an artist statement, this will be a general statement about your practice that is not tied to any particular body of work. An exhibition statement, on the other hand, pertains to a specific exhibition. Can these two things be the same thing? Maybe. But they serve two different purposes, and you may want to tailor that accordingly.
